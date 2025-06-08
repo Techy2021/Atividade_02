@@ -1,3 +1,4 @@
+# Programa de interface com o usuário
 from gerenciador import *
 import os
 
