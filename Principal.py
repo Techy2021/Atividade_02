@@ -1,5 +1,6 @@
 # Programa de interface com o usuário
-from gerenciador import *
+
+from Gerenciador import *  #correção do nome "Gerenciador"
 import os
 
 def menu():
